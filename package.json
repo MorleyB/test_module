@@ -1,0 +1,19 @@
+{
+  "name": "test_module",
+  "version": "1.0.0",
+  "description": "testing react version control",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorleyB/test_module.git"
+  },
+  "author": "MorleyB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorleyB/test_module/issues"
+  },
+  "homepage": "https://github.com/MorleyB/test_module#readme"
+}
