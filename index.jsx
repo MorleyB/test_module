@@ -3,7 +3,7 @@ module.exports = React.createClass({
     return (
       <div>
         <h1>Hello World!</h1>
-        <p>version: '1.0.0'</p>
+        <p>newer version: '1.0.2'</p>
       </div>
     );
   }
